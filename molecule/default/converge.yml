@@ -24,4 +24,4 @@
 
     - name: include role
       ansible.builtin.include_role:
-        name: alvistack.audacious
+        name: alvistack.flatpak_audacious
