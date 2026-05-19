@@ -1,13 +1,13 @@
-# Ansible Role for Audacious
+# Ansible Role for Audacious with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacious/master)](https://gitlab.com/alvistack/ansible-role-audacious/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.audacious-blue.svg)](https://galaxy.ansible.com/alvistack/audacious)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_audacious/master)](https://gitlab.com/alvistack/ansible-role-flatpak_audacious/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_audacious.svg)](https://github.com/alvistack/ansible-role-flatpak_audacious/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_audacious.svg)](https://github.com/alvistack/ansible-role-flatpak_audacious/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_audacious-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_audacious)
 
-Ansible Role for Audacious Installation.
+Ansible Role for Audacious with Flatpak.
 
 ## Requirements
 
